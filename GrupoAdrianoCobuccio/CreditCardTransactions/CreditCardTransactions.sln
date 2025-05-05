@@ -1,0 +1,105 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CreditCardTransactions", "Forms\CreditCardTransactions.vbproj", "{990B91B0-F6F8-4FB3-9E84-9DEAEFDCDBBC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{7BD59869-EE34-4BF9-BFAC-E0557BE1F367}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{765C7A33-63F3-4A4A-AD3B-64466DAA5416}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{193D231B-AB24-4C3E-8171-C37CB7A42AF2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{C2A9AFC2-9198-4273-A3B9-AD7258695D94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helpers", "Helpers", "{B36A9CDE-D08D-47CC-B643-89D683072C52}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CreditCardTransactions.Data", "CreditCardTransactions.Data\CreditCardTransactions.Data.vbproj", "{21AC7419-C0E4-4712-B31B-C9B4E59C8B0E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CreditCardTransactions.Models", "CreditCardTransactions.Models\CreditCardTransactions.Models.vbproj", "{B7DED7CA-91C8-4B22-AA0F-1423FA7429F8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CreditCartTransactions.Repositories", "CreditCartTransactions.Repositories\CreditCartTransactions.Repositories.vbproj", "{AD6CA411-D292-4460-8960-928F2BCDEB05}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CreditCartTransactions.Services", "CreditCartTransactions.Services\CreditCartTransactions.Services.vbproj", "{72E524FC-13FF-4763-A8BB-9A137E04C530}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CreditCardTransactions.Helpers", "CreditCardTransactions.Helpers\CreditCardTransactions.Helpers.vbproj", "{9339E550-5BFE-4548-A370-6BF31F6C52EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{990B91B0-F6F8-4FB3-9E84-9DEAEFDCDBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990B91B0-F6F8-4FB3-9E84-9DEAEFDCDBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990B91B0-F6F8-4FB3-9E84-9DEAEFDCDBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990B91B0-F6F8-4FB3-9E84-9DEAEFDCDBBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21AC7419-C0E4-4712-B31B-C9B4E59C8B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AC7419-C0E4-4712-B31B-C9B4E59C8B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AC7419-C0E4-4712-B31B-C9B4E59C8B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AC7419-C0E4-4712-B31B-C9B4E59C8B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DED7CA-91C8-4B22-AA0F-1423FA7429F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DED7CA-91C8-4B22-AA0F-1423FA7429F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DED7CA-91C8-4B22-AA0F-1423FA7429F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DED7CA-91C8-4B22-AA0F-1423FA7429F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6CA411-D292-4460-8960-928F2BCDEB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6CA411-D292-4460-8960-928F2BCDEB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6CA411-D292-4460-8960-928F2BCDEB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6CA411-D292-4460-8960-928F2BCDEB05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E524FC-13FF-4763-A8BB-9A137E04C530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E524FC-13FF-4763-A8BB-9A137E04C530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E524FC-13FF-4763-A8BB-9A137E04C530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E524FC-13FF-4763-A8BB-9A137E04C530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9339E550-5BFE-4548-A370-6BF31F6C52EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9339E550-5BFE-4548-A370-6BF31F6C52EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9339E550-5BFE-4548-A370-6BF31F6C52EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9339E550-5BFE-4548-A370-6BF31F6C52EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{990B91B0-F6F8-4FB3-9E84-9DEAEFDCDBBC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{21AC7419-C0E4-4712-B31B-C9B4E59C8B0E} = {7BD59869-EE34-4BF9-BFAC-E0557BE1F367}
+		{B7DED7CA-91C8-4B22-AA0F-1423FA7429F8} = {765C7A33-63F3-4A4A-AD3B-64466DAA5416}
+		{AD6CA411-D292-4460-8960-928F2BCDEB05} = {193D231B-AB24-4C3E-8171-C37CB7A42AF2}
+		{72E524FC-13FF-4763-A8BB-9A137E04C530} = {C2A9AFC2-9198-4273-A3B9-AD7258695D94}
+		{9339E550-5BFE-4548-A370-6BF31F6C52EA} = {B36A9CDE-D08D-47CC-B643-89D683072C52}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D9CFBE1-9E68-4084-9745-3442715A5562}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://selintec1.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CreditCardTransactions.Data\\CreditCardTransactions.Data.vbproj
+		SccProjectTopLevelParentUniqueName1 = CreditCardTransactions.sln
+		SccProjectName1 = CreditCardTransactions.Data
+		SccLocalPath1 = CreditCardTransactions.Data
+		SccProjectUniqueName2 = CreditCardTransactions.Helpers\\CreditCardTransactions.Helpers.vbproj
+		SccProjectTopLevelParentUniqueName2 = CreditCardTransactions.sln
+		SccProjectName2 = CreditCardTransactions.Helpers
+		SccLocalPath2 = CreditCardTransactions.Helpers
+		SccProjectUniqueName3 = CreditCardTransactions.Models\\CreditCardTransactions.Models.vbproj
+		SccProjectTopLevelParentUniqueName3 = CreditCardTransactions.sln
+		SccProjectName3 = CreditCardTransactions.Models
+		SccLocalPath3 = CreditCardTransactions.Models
+		SccProjectUniqueName4 = CreditCartTransactions.Repositories\\CreditCartTransactions.Repositories.vbproj
+		SccProjectTopLevelParentUniqueName4 = CreditCardTransactions.sln
+		SccProjectName4 = CreditCartTransactions.Repositories
+		SccLocalPath4 = CreditCartTransactions.Repositories
+		SccProjectUniqueName5 = CreditCartTransactions.Services\\CreditCartTransactions.Services.vbproj
+		SccProjectTopLevelParentUniqueName5 = CreditCardTransactions.sln
+		SccProjectName5 = CreditCartTransactions.Services
+		SccLocalPath5 = CreditCartTransactions.Services
+		SccProjectUniqueName6 = Forms\\CreditCardTransactions.vbproj
+		SccProjectTopLevelParentUniqueName6 = CreditCardTransactions.sln
+		SccProjectName6 = Forms
+		SccLocalPath6 = Forms
+	EndGlobalSection
+EndGlobal

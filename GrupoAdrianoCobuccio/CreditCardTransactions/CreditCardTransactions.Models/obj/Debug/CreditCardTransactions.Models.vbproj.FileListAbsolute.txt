@@ -1,0 +1,12 @@
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Models\bin\Debug\CreditCardTransactions.Models.dll
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Models\bin\Debug\CreditCardTransactions.Models.pdb
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Models\bin\Debug\CreditCardTransactions.Models.xml
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Models\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Models\obj\Debug\CreditCardTransactions.Models.vbproj.AssemblyReference.cache
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Models\obj\Debug\CreditCardTransactions.Models.Resources.resources
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Models\obj\Debug\CreditCardTransactions.Models.vbproj.GenerateResource.cache
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Models\obj\Debug\CreditCardTransactions.Models.vbproj.CoreCompileInputs.cache
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Models\obj\Debug\CreditCa.C23C75F8.Up2Date
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Models\obj\Debug\CreditCardTransactions.Models.dll
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Models\obj\Debug\CreditCardTransactions.Models.xml
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Models\obj\Debug\CreditCardTransactions.Models.pdb

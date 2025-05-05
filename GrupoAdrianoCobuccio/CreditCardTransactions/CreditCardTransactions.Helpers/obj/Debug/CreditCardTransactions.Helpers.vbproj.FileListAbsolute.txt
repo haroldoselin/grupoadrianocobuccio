@@ -1,0 +1,10 @@
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Helpers\obj\Debug\CreditCardTransactions.Helpers.vbproj.AssemblyReference.cache
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Helpers\obj\Debug\CreditCardTransactions.Helpers.Resources.resources
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Helpers\obj\Debug\CreditCardTransactions.Helpers.vbproj.GenerateResource.cache
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Helpers\obj\Debug\CreditCardTransactions.Helpers.vbproj.CoreCompileInputs.cache
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Helpers\bin\Debug\CreditCardTransactions.Helpers.dll
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Helpers\bin\Debug\CreditCardTransactions.Helpers.pdb
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Helpers\bin\Debug\CreditCardTransactions.Helpers.xml
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Helpers\obj\Debug\CreditCardTransactions.Helpers.dll
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Helpers\obj\Debug\CreditCardTransactions.Helpers.xml
+C:\Fontes\Projetos\Estudos\GrupoAdrianoCobuccio\CreditCardTransactions\CreditCardTransactions.Helpers\obj\Debug\CreditCardTransactions.Helpers.pdb

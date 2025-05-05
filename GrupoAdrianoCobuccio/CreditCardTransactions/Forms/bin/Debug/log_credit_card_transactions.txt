@@ -1,0 +1,10 @@
+2025-05-04 16:23:10 - Erro ao inserir transação: The INSERT statement conflicted with the CHECK constraint "CK__Tab_Trans__Valor__29572725". The conflict occurred in database "GrupoAC", table "dbo.Tab_Transacao", column 'Valor_Transacao'.
+The statement has been terminated.
+2025-05-04 16:27:28 - Erro ao inserir transação: The INSERT statement conflicted with the CHECK constraint "CK__Tab_Trans__Valor__29572725". The conflict occurred in database "GrupoAC", table "dbo.Tab_Transacao", column 'Valor_Transacao'.
+The statement has been terminated.
+2025-05-04 16:33:09 - Erro ao inserir transação: The INSERT statement conflicted with the CHECK constraint "CK__Tab_Trans__Valor__29572725". The conflict occurred in database "GrupoAC", table "dbo.Tab_Transacao", column 'Valor_Transacao'.
+The statement has been terminated.
+2025-05-04 16:33:38 - Erro ao inserir transação: The INSERT statement conflicted with the CHECK constraint "CK__Tab_Trans__Valor__29572725". The conflict occurred in database "GrupoAC", table "dbo.Tab_Transacao", column 'Valor_Transacao'.
+The statement has been terminated.
+2025-05-04 16:59:43 - Erro ao consultar transação: A conversão da cadeia de caracteres 'SELECT * FROM Tab_Transacao WITH' no tipo 'Double' não é válida.
+2025-05-04 17:01:07 - Erro ao consultar transação: A conversão da cadeia de caracteres 'SELECT * FROM Tab_Transacao WITH' no tipo 'Double' não é válida.
